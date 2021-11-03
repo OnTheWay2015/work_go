@@ -361,6 +361,7 @@ Slice 是对数组的抽象,动态数组
 		slice1 := make([]type, len)
 		make([]T, length, capacity) //可以指定容量，其中 capacity 为可选参数。
 
+
 初始化, 一个切片在未初始化之前默认为 nil，长度为 0
 	s :=[] int {1,2,3 }
 	直接初始化切片，[] 表示是切片类型，{1,2,3} 初始化值依次是 1,2,3，其 cap=len=3。

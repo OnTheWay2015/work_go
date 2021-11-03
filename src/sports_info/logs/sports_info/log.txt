@@ -1,0 +1,5290 @@
+2021-10-26T11:48:26.327+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: 127.0.0.1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "FC多尔戈普鲁德内二队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 173059,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829479,
+               "Gifdata": null,
+               "HomeTeamCust": "莫斯科迪纳摩二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20238,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "列宁格勒达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 79227,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829493,
+               "Gifdata": null,
+               "HomeTeamCust": "FC卢基纳吉亚维利奇卢基",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 30051,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBCBBB387CDCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "莫多瓦耶",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4285,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829500,
+               "Gifdata": null,
+               "HomeTeamCust": "罗迪纳莫斯科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 110805,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "杜海勒SC",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 33373,
+               "CompIdCust": 3725,
+               "CompNameCust": "卡塔尔甲级联赛",
+               "EventGroupIdCust": 35825211,
+               "Gifdata": null,
+               "HomeTeamCust": "夏马尔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 62788,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCBDBBB38FC7CECDCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "苏阿美利加",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4457,
+               "CompIdCust": 613,
+               "CompNameCust": "乌拉圭甲级联赛",
+               "EventGroupIdCust": 35740233,
+               "Gifdata": null,
+               "HomeTeamCust": "普罗格雷索",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20915,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBABCB7CCB6CCB9CBB387CEC9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳萨夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4930,
+               "CompIdCust": 441,
+               "CompNameCust": "乌兹别克超级足球联赛",
+               "EventGroupIdCust": 35816495,
+               "Gifdata": null,
+               "HomeTeamCust": "安迪江",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 7977,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCBBBCB7CCB9BCBCBBB387C8CFCFCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "巴日托",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6017,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816801,
+               "Gifdata": null,
+               "HomeTeamCust": "佩斯普拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1816,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCBDBCB8CCB9CBB38DC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "佩斯凯迪瑞",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109350,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816830,
+               "Gifdata": null,
+               "HomeTeamCust": "帕森拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 6013,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCB6CCBBBCB9BBB38AC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯瓦达圣彼得堡",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 110793,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35825945,
+               "Gifdata": null,
+               "HomeTeamCust": "基塔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 13376,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBABBB38FCECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "FC特维尔",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 136910,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826088,
+               "Gifdata": null,
+               "HomeTeamCust": "圣彼得堡泽尼特二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4270,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBDBBB38ECCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "索科尔萨拉托夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4275,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826089,
+               "Gifdata": null,
+               "HomeTeamCust": "阿仙奴图拉2",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 12232,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBEBBB389CBCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "兹纳姆亚诺金斯克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 139701,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826117,
+               "Gifdata": null,
+               "HomeTeamCust": "佩列斯韦特波多利斯克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 169712,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCB6CBB38BCCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "UTA亚拉德",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6077,
+               "CompIdCust": 2269,
+               "CompNameCust": "罗马尼亚甲级联赛",
+               "EventGroupIdCust": 35709848,
+               "Gifdata": null,
+               "HomeTeamCust": "塞林西尼学院",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 10379,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB6CBB388CFC9C8CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "沙莫林",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 13055,
+               "CompIdCust": 2633,
+               "CompNameCust": "斯洛伐克乙级联赛",
+               "EventGroupIdCust": 35826815,
+               "Gifdata": null,
+               "HomeTeamCust": "杜布尼卡",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 79545,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBBBCB6CCBBBCB9CBB38CC8CBCECBC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "老挝U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 81873,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831618,
+               "Gifdata": null,
+               "HomeTeamCust": "马来西亚U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31897,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBABBB38ACFCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "希尔尼克体育",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 27743,
+               "CompIdCust": 345,
+               "CompNameCust": "乌克兰甲级联賽",
+               "EventGroupIdCust": 35831824,
+               "Gifdata": null,
+               "HomeTeamCust": "FC VPK-A.舍甫琴科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 113151,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBCBCBABCBDBCBEBBB388CFCBCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "科索沃U19(女)",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41829,
+               "CompIdCust": 1406,
+               "CompNameCust": "欧洲U19女子锦标赛预选赛",
+               "EventGroupIdCust": 35831908,
+               "Gifdata": null,
+               "HomeTeamCust": "克罗地亚U19(女)",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 42472,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB9CCB9BCB9BBB38CCDCCCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "尼泊尔U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31060,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831998,
+               "Gifdata": null,
+               "HomeTeamCust": "伊朗U23\t",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBCBBB386CDCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "菲律宾U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31895,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35828709,
+               "Gifdata": null,
+               "HomeTeamCust": "韩国U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31898,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBBBBB388CECFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "卡拉巴克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4415,
+               "CompIdCust": 141,
+               "CompNameCust": "阿塞拜疆超级联赛",
+               "EventGroupIdCust": 35810885,
+               "Gifdata": null,
+               "HomeTeamCust": "萨巴伊",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1272,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB9BBB38CC6C9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "伊蒂哈德亚历山大",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41484,
+               "CompIdCust": 145,
+               "CompNameCust": "埃及超级联赛",
+               "EventGroupIdCust": 35810898,
+               "Gifdata": null,
+               "HomeTeamCust": "史莫哈",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 497,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB6CCB9BCB9CCB9BCBABBB38DC9C7C7CCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "PFC华纳斯巴达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109610,
+               "CompIdCust": 173,
+               "CompNameCust": "保加利亚乙级联赛",
+               "EventGroupIdCust": 35820227,
+               "Gifdata": null,
+               "HomeTeamCust": "明约匹尼克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 114477,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBDBBB387CDCECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯托克城U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 37830,
+               "CompIdCust": 179,
+               "CompNameCust": "英格兰超级联赛2乙级联赛",
+               "EventGroupIdCust": 35829336,
+               "Gifdata": null,
+               "HomeTeamCust": "西布朗U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 278,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBDBBB38ECBCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳夫特",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4923,
+               "CompIdCust": 638,
+               "CompNameCust": "伊朗超级联赛",
+               "EventGroupIdCust": 35829405,
+               "Gifdata": null,
+               "HomeTeamCust": "泰拉克托",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCB8CCB9BCB9BCB7CBB389C8CECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-26T11:48:26.462+0800	INFO	method: GET, uri: /favicon.ico, status: 404, clientIP: 127.0.0.1, costtm: 0 ms, params:null, resbody:
+{}
+2021-10-26T11:54:11.029+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: 127.0.0.1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "FC多尔戈普鲁德内二队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 173059,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829479,
+               "Gifdata": null,
+               "HomeTeamCust": "莫斯科迪纳摩二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20238,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "列宁格勒达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 79227,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829493,
+               "Gifdata": null,
+               "HomeTeamCust": "FC卢基纳吉亚维利奇卢基",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 30051,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBCBBB387CDCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "莫多瓦耶",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4285,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829500,
+               "Gifdata": null,
+               "HomeTeamCust": "罗迪纳莫斯科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 110805,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "杜海勒SC",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 33373,
+               "CompIdCust": 3725,
+               "CompNameCust": "卡塔尔甲级联赛",
+               "EventGroupIdCust": 35825211,
+               "Gifdata": null,
+               "HomeTeamCust": "夏马尔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 62788,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCBDBBB38FC7CECDCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "苏阿美利加",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4457,
+               "CompIdCust": 613,
+               "CompNameCust": "乌拉圭甲级联赛",
+               "EventGroupIdCust": 35740233,
+               "Gifdata": null,
+               "HomeTeamCust": "普罗格雷索",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20915,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBABCB7CCB6CCB9CBB387CEC9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳萨夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4930,
+               "CompIdCust": 441,
+               "CompNameCust": "乌兹别克超级足球联赛",
+               "EventGroupIdCust": 35816495,
+               "Gifdata": null,
+               "HomeTeamCust": "安迪江",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 7977,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCBBBCB7CCB9BCBCBBB387C8CFCFCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "巴日托",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6017,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816801,
+               "Gifdata": null,
+               "HomeTeamCust": "佩斯普拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1816,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCBDBCB8CCB9CBB38DC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "佩斯凯迪瑞",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109350,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816830,
+               "Gifdata": null,
+               "HomeTeamCust": "帕森拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 6013,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCB6CCBBBCB9BBB38AC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯瓦达圣彼得堡",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 110793,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35825945,
+               "Gifdata": null,
+               "HomeTeamCust": "基塔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 13376,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBABBB38FCECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "FC特维尔",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 136910,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826088,
+               "Gifdata": null,
+               "HomeTeamCust": "圣彼得堡泽尼特二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4270,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBDBBB38ECCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "索科尔萨拉托夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4275,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826089,
+               "Gifdata": null,
+               "HomeTeamCust": "阿仙奴图拉2",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 12232,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBEBBB389CBCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "兹纳姆亚诺金斯克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 139701,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826117,
+               "Gifdata": null,
+               "HomeTeamCust": "佩列斯韦特波多利斯克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 169712,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCB6CBB38BCCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "UTA亚拉德",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6077,
+               "CompIdCust": 2269,
+               "CompNameCust": "罗马尼亚甲级联赛",
+               "EventGroupIdCust": 35709848,
+               "Gifdata": null,
+               "HomeTeamCust": "塞林西尼学院",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 10379,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB6CBB388CFC9C8CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "沙莫林",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 13055,
+               "CompIdCust": 2633,
+               "CompNameCust": "斯洛伐克乙级联赛",
+               "EventGroupIdCust": 35826815,
+               "Gifdata": null,
+               "HomeTeamCust": "杜布尼卡",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 79545,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBBBCB6CCBBBCB9CBB38CC8CBCECBC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "老挝U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 81873,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831618,
+               "Gifdata": null,
+               "HomeTeamCust": "马来西亚U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31897,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBABBB38ACFCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "希尔尼克体育",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 27743,
+               "CompIdCust": 345,
+               "CompNameCust": "乌克兰甲级联賽",
+               "EventGroupIdCust": 35831824,
+               "Gifdata": null,
+               "HomeTeamCust": "FC VPK-A.舍甫琴科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 113151,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBCBCBABCBDBCBEBBB388CFCBCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "科索沃U19(女)",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41829,
+               "CompIdCust": 1406,
+               "CompNameCust": "欧洲U19女子锦标赛预选赛",
+               "EventGroupIdCust": 35831908,
+               "Gifdata": null,
+               "HomeTeamCust": "克罗地亚U19(女)",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 42472,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB9CCB9BCB9BBB38CCDCCCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "尼泊尔U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31060,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831998,
+               "Gifdata": null,
+               "HomeTeamCust": "伊朗U23\t",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBCBBB386CDCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "菲律宾U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31895,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35828709,
+               "Gifdata": null,
+               "HomeTeamCust": "韩国U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31898,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBBBBB388CECFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "卡拉巴克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4415,
+               "CompIdCust": 141,
+               "CompNameCust": "阿塞拜疆超级联赛",
+               "EventGroupIdCust": 35810885,
+               "Gifdata": null,
+               "HomeTeamCust": "萨巴伊",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1272,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB9BBB38CC6C9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "伊蒂哈德亚历山大",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41484,
+               "CompIdCust": 145,
+               "CompNameCust": "埃及超级联赛",
+               "EventGroupIdCust": 35810898,
+               "Gifdata": null,
+               "HomeTeamCust": "史莫哈",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 497,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB6CCB9BCB9CCB9BCBABBB38DC9C7C7CCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "PFC华纳斯巴达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109610,
+               "CompIdCust": 173,
+               "CompNameCust": "保加利亚乙级联赛",
+               "EventGroupIdCust": 35820227,
+               "Gifdata": null,
+               "HomeTeamCust": "明约匹尼克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 114477,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBDBBB387CDCECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯托克城U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 37830,
+               "CompIdCust": 179,
+               "CompNameCust": "英格兰超级联赛2乙级联赛",
+               "EventGroupIdCust": 35829336,
+               "Gifdata": null,
+               "HomeTeamCust": "西布朗U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 278,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBDBBB38ECBCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳夫特",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4923,
+               "CompIdCust": 638,
+               "CompNameCust": "伊朗超级联赛",
+               "EventGroupIdCust": 35829405,
+               "Gifdata": null,
+               "HomeTeamCust": "泰拉克托",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCB8CCB9BCB9BCB7CBB389C8CECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-26T11:54:11.234+0800	INFO	method: GET, uri: /favicon.ico, status: 404, clientIP: 127.0.0.1, costtm: 0 ms, params:null, resbody:
+{}
+2021-10-26T14:55:24.485+0800	INFO	method: GET, uri: /, status: 200, clientIP: 127.0.0.1, costtm: 12292 ms, params:null, resbody:
+{}
+2021-10-26T14:55:24.537+0800	INFO	method: GET, uri: /favicon.ico, status: 404, clientIP: 127.0.0.1, costtm: 0 ms, params:null, resbody:
+{}
+2021-10-26T16:13:17.999+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: ::1, costtm: 2 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "FC多尔戈普鲁德内二队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 173059,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829479,
+               "Gifdata": null,
+               "HomeTeamCust": "莫斯科迪纳摩二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20238,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "列宁格勒达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 79227,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829493,
+               "Gifdata": null,
+               "HomeTeamCust": "FC卢基纳吉亚维利奇卢基",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 30051,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBCBBB387CDCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "莫多瓦耶",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4285,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829500,
+               "Gifdata": null,
+               "HomeTeamCust": "罗迪纳莫斯科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 110805,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "杜海勒SC",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 33373,
+               "CompIdCust": 3725,
+               "CompNameCust": "卡塔尔甲级联赛",
+               "EventGroupIdCust": 35825211,
+               "Gifdata": null,
+               "HomeTeamCust": "夏马尔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 62788,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCBDBBB38FC7CECDCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "苏阿美利加",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4457,
+               "CompIdCust": 613,
+               "CompNameCust": "乌拉圭甲级联赛",
+               "EventGroupIdCust": 35740233,
+               "Gifdata": null,
+               "HomeTeamCust": "普罗格雷索",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20915,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBABCB7CCB6CCB9CBB387CEC9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳萨夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4930,
+               "CompIdCust": 441,
+               "CompNameCust": "乌兹别克超级足球联赛",
+               "EventGroupIdCust": 35816495,
+               "Gifdata": null,
+               "HomeTeamCust": "安迪江",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 7977,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCBBBCB7CCB9BCBCBBB387C8CFCFCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "巴日托",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6017,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816801,
+               "Gifdata": null,
+               "HomeTeamCust": "佩斯普拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1816,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCBDBCB8CCB9CBB38DC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "佩斯凯迪瑞",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109350,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816830,
+               "Gifdata": null,
+               "HomeTeamCust": "帕森拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 6013,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCB6CCBBBCB9BBB38AC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯瓦达圣彼得堡",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 110793,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35825945,
+               "Gifdata": null,
+               "HomeTeamCust": "基塔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 13376,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBABBB38FCECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "FC特维尔",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 136910,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826088,
+               "Gifdata": null,
+               "HomeTeamCust": "圣彼得堡泽尼特二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4270,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBDBBB38ECCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "索科尔萨拉托夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4275,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826089,
+               "Gifdata": null,
+               "HomeTeamCust": "阿仙奴图拉2",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 12232,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBEBBB389CBCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "兹纳姆亚诺金斯克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 139701,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826117,
+               "Gifdata": null,
+               "HomeTeamCust": "佩列斯韦特波多利斯克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 169712,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCB6CBB38BCCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "UTA亚拉德",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6077,
+               "CompIdCust": 2269,
+               "CompNameCust": "罗马尼亚甲级联赛",
+               "EventGroupIdCust": 35709848,
+               "Gifdata": null,
+               "HomeTeamCust": "塞林西尼学院",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 10379,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB6CBB388CFC9C8CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "沙莫林",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 13055,
+               "CompIdCust": 2633,
+               "CompNameCust": "斯洛伐克乙级联赛",
+               "EventGroupIdCust": 35826815,
+               "Gifdata": null,
+               "HomeTeamCust": "杜布尼卡",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 79545,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBBBCB6CCBBBCB9CBB38CC8CBCECBC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "老挝U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 81873,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831618,
+               "Gifdata": null,
+               "HomeTeamCust": "马来西亚U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31897,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBABBB38ACFCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "希尔尼克体育",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 27743,
+               "CompIdCust": 345,
+               "CompNameCust": "乌克兰甲级联賽",
+               "EventGroupIdCust": 35831824,
+               "Gifdata": null,
+               "HomeTeamCust": "FC VPK-A.舍甫琴科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 113151,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBCBCBABCBDBCBEBBB388CFCBCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "科索沃U19(女)",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41829,
+               "CompIdCust": 1406,
+               "CompNameCust": "欧洲U19女子锦标赛预选赛",
+               "EventGroupIdCust": 35831908,
+               "Gifdata": null,
+               "HomeTeamCust": "克罗地亚U19(女)",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 42472,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB9CCB9BCB9BBB38CCDCCCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "尼泊尔U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31060,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831998,
+               "Gifdata": null,
+               "HomeTeamCust": "伊朗U23\t",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBCBBB386CDCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "菲律宾U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31895,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35828709,
+               "Gifdata": null,
+               "HomeTeamCust": "韩国U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31898,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBBBBB388CECFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "卡拉巴克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4415,
+               "CompIdCust": 141,
+               "CompNameCust": "阿塞拜疆超级联赛",
+               "EventGroupIdCust": 35810885,
+               "Gifdata": null,
+               "HomeTeamCust": "萨巴伊",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1272,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB9BBB38CC6C9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "伊蒂哈德亚历山大",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41484,
+               "CompIdCust": 145,
+               "CompNameCust": "埃及超级联赛",
+               "EventGroupIdCust": 35810898,
+               "Gifdata": null,
+               "HomeTeamCust": "史莫哈",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 497,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB6CCB9BCB9CCB9BCBABBB38DC9C7C7CCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "PFC华纳斯巴达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109610,
+               "CompIdCust": 173,
+               "CompNameCust": "保加利亚乙级联赛",
+               "EventGroupIdCust": 35820227,
+               "Gifdata": null,
+               "HomeTeamCust": "明约匹尼克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 114477,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBDBBB387CDCECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯托克城U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 37830,
+               "CompIdCust": 179,
+               "CompNameCust": "英格兰超级联赛2乙级联赛",
+               "EventGroupIdCust": 35829336,
+               "Gifdata": null,
+               "HomeTeamCust": "西布朗U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 278,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBDBBB38ECBCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳夫特",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4923,
+               "CompIdCust": 638,
+               "CompNameCust": "伊朗超级联赛",
+               "EventGroupIdCust": 35829405,
+               "Gifdata": null,
+               "HomeTeamCust": "泰拉克托",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCB8CCB9BCB9BCB7CBB389C8CECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "LA Clippers",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 3277,
+               "CompNameCust": "*NBA",
+               "EventGroupIdCust": 35668062,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "Portland Trail Blazers",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13367,
+               "CompNameCust": "*NBA - 三分球进球数(按球队)",
+               "EventGroupIdCust": 35838602,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13182,
+               "CompNameCust": "*NBA - 第一个三分球得分",
+               "EventGroupIdCust": 35838620,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "福建豹发力",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 45521,
+               "CompIdCust": 4528,
+               "CompNameCust": "CBA - 中国男子篮球职业联赛",
+               "EventGroupIdCust": 35668955,
+               "Gifdata": null,
+               "HomeTeamCust": "上海久事",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 43590,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBEBBB387CDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-26T16:13:18.297+0800	INFO	method: GET, uri: /favicon.ico, status: 404, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{}
+2021-10-26T16:16:56.016+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "FC多尔戈普鲁德内二队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 173059,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829479,
+               "Gifdata": null,
+               "HomeTeamCust": "莫斯科迪纳摩二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20238,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "列宁格勒达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 79227,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829493,
+               "Gifdata": null,
+               "HomeTeamCust": "FC卢基纳吉亚维利奇卢基",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 30051,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBCBBB387CDCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "莫多瓦耶",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4285,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829500,
+               "Gifdata": null,
+               "HomeTeamCust": "罗迪纳莫斯科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 110805,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "杜海勒SC",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 33373,
+               "CompIdCust": 3725,
+               "CompNameCust": "卡塔尔甲级联赛",
+               "EventGroupIdCust": 35825211,
+               "Gifdata": null,
+               "HomeTeamCust": "夏马尔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 62788,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCBDBBB38FC7CECDCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "苏阿美利加",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4457,
+               "CompIdCust": 613,
+               "CompNameCust": "乌拉圭甲级联赛",
+               "EventGroupIdCust": 35740233,
+               "Gifdata": null,
+               "HomeTeamCust": "普罗格雷索",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20915,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBABCB7CCB6CCB9CBB387CEC9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳萨夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4930,
+               "CompIdCust": 441,
+               "CompNameCust": "乌兹别克超级足球联赛",
+               "EventGroupIdCust": 35816495,
+               "Gifdata": null,
+               "HomeTeamCust": "安迪江",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 7977,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCBBBCB7CCB9BCBCBBB387C8CFCFCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "巴日托",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6017,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816801,
+               "Gifdata": null,
+               "HomeTeamCust": "佩斯普拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1816,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCBDBCB8CCB9CBB38DC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "佩斯凯迪瑞",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109350,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816830,
+               "Gifdata": null,
+               "HomeTeamCust": "帕森拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 6013,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCB6CCBBBCB9BBB38AC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯瓦达圣彼得堡",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 110793,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35825945,
+               "Gifdata": null,
+               "HomeTeamCust": "基塔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 13376,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBABBB38FCECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "FC特维尔",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 136910,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826088,
+               "Gifdata": null,
+               "HomeTeamCust": "圣彼得堡泽尼特二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4270,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBDBBB38ECCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "索科尔萨拉托夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4275,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826089,
+               "Gifdata": null,
+               "HomeTeamCust": "阿仙奴图拉2",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 12232,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBEBBB389CBCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "兹纳姆亚诺金斯克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 139701,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826117,
+               "Gifdata": null,
+               "HomeTeamCust": "佩列斯韦特波多利斯克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 169712,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCB6CBB38BCCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "UTA亚拉德",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6077,
+               "CompIdCust": 2269,
+               "CompNameCust": "罗马尼亚甲级联赛",
+               "EventGroupIdCust": 35709848,
+               "Gifdata": null,
+               "HomeTeamCust": "塞林西尼学院",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 10379,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB6CBB388CFC9C8CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "沙莫林",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 13055,
+               "CompIdCust": 2633,
+               "CompNameCust": "斯洛伐克乙级联赛",
+               "EventGroupIdCust": 35826815,
+               "Gifdata": null,
+               "HomeTeamCust": "杜布尼卡",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 79545,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBBBCB6CCBBBCB9CBB38CC8CBCECBC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "老挝U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 81873,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831618,
+               "Gifdata": null,
+               "HomeTeamCust": "马来西亚U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31897,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBABBB38ACFCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "希尔尼克体育",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 27743,
+               "CompIdCust": 345,
+               "CompNameCust": "乌克兰甲级联賽",
+               "EventGroupIdCust": 35831824,
+               "Gifdata": null,
+               "HomeTeamCust": "FC VPK-A.舍甫琴科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 113151,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBCBCBABCBDBCBEBBB388CFCBCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "科索沃U19(女)",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41829,
+               "CompIdCust": 1406,
+               "CompNameCust": "欧洲U19女子锦标赛预选赛",
+               "EventGroupIdCust": 35831908,
+               "Gifdata": null,
+               "HomeTeamCust": "克罗地亚U19(女)",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 42472,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB9CCB9BCB9BBB38CCDCCCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "尼泊尔U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31060,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831998,
+               "Gifdata": null,
+               "HomeTeamCust": "伊朗U23\t",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBCBBB386CDCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "菲律宾U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31895,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35828709,
+               "Gifdata": null,
+               "HomeTeamCust": "韩国U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31898,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBBBBB388CECFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "卡拉巴克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4415,
+               "CompIdCust": 141,
+               "CompNameCust": "阿塞拜疆超级联赛",
+               "EventGroupIdCust": 35810885,
+               "Gifdata": null,
+               "HomeTeamCust": "萨巴伊",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1272,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB9BBB38CC6C9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "伊蒂哈德亚历山大",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41484,
+               "CompIdCust": 145,
+               "CompNameCust": "埃及超级联赛",
+               "EventGroupIdCust": 35810898,
+               "Gifdata": null,
+               "HomeTeamCust": "史莫哈",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 497,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB6CCB9BCB9CCB9BCBABBB38DC9C7C7CCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "PFC华纳斯巴达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109610,
+               "CompIdCust": 173,
+               "CompNameCust": "保加利亚乙级联赛",
+               "EventGroupIdCust": 35820227,
+               "Gifdata": null,
+               "HomeTeamCust": "明约匹尼克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 114477,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBDBBB387CDCECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯托克城U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 37830,
+               "CompIdCust": 179,
+               "CompNameCust": "英格兰超级联赛2乙级联赛",
+               "EventGroupIdCust": 35829336,
+               "Gifdata": null,
+               "HomeTeamCust": "西布朗U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 278,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBDBBB38ECBCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳夫特",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4923,
+               "CompIdCust": 638,
+               "CompNameCust": "伊朗超级联赛",
+               "EventGroupIdCust": 35829405,
+               "Gifdata": null,
+               "HomeTeamCust": "泰拉克托",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCB8CCB9BCB9BCB7CBB389C8CECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "LA Clippers",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 3277,
+               "CompNameCust": "*NBA",
+               "EventGroupIdCust": 35668062,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "Portland Trail Blazers",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13367,
+               "CompNameCust": "*NBA - 三分球进球数(按球队)",
+               "EventGroupIdCust": 35838602,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13182,
+               "CompNameCust": "*NBA - 第一个三分球得分",
+               "EventGroupIdCust": 35838620,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "福建豹发力",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 45521,
+               "CompIdCust": 4528,
+               "CompNameCust": "CBA - 中国男子篮球职业联赛",
+               "EventGroupIdCust": 35668955,
+               "Gifdata": null,
+               "HomeTeamCust": "上海久事",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 43590,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBEBBB387CDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-26T16:16:56.833+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "FC多尔戈普鲁德内二队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 173059,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829479,
+               "Gifdata": null,
+               "HomeTeamCust": "莫斯科迪纳摩二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20238,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "列宁格勒达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 79227,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829493,
+               "Gifdata": null,
+               "HomeTeamCust": "FC卢基纳吉亚维利奇卢基",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 30051,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBCBBB387CDCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "莫多瓦耶",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4285,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829500,
+               "Gifdata": null,
+               "HomeTeamCust": "罗迪纳莫斯科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 110805,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "杜海勒SC",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 33373,
+               "CompIdCust": 3725,
+               "CompNameCust": "卡塔尔甲级联赛",
+               "EventGroupIdCust": 35825211,
+               "Gifdata": null,
+               "HomeTeamCust": "夏马尔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 62788,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCBDBBB38FC7CECDCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "苏阿美利加",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4457,
+               "CompIdCust": 613,
+               "CompNameCust": "乌拉圭甲级联赛",
+               "EventGroupIdCust": 35740233,
+               "Gifdata": null,
+               "HomeTeamCust": "普罗格雷索",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20915,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBABCB7CCB6CCB9CBB387CEC9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳萨夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4930,
+               "CompIdCust": 441,
+               "CompNameCust": "乌兹别克超级足球联赛",
+               "EventGroupIdCust": 35816495,
+               "Gifdata": null,
+               "HomeTeamCust": "安迪江",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 7977,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCBBBCB7CCB9BCBCBBB387C8CFCFCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "巴日托",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6017,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816801,
+               "Gifdata": null,
+               "HomeTeamCust": "佩斯普拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1816,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCBDBCB8CCB9CBB38DC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "佩斯凯迪瑞",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109350,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816830,
+               "Gifdata": null,
+               "HomeTeamCust": "帕森拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 6013,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCB6CCBBBCB9BBB38AC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯瓦达圣彼得堡",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 110793,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35825945,
+               "Gifdata": null,
+               "HomeTeamCust": "基塔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 13376,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBABBB38FCECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "FC特维尔",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 136910,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826088,
+               "Gifdata": null,
+               "HomeTeamCust": "圣彼得堡泽尼特二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4270,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBDBBB38ECCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "索科尔萨拉托夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4275,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826089,
+               "Gifdata": null,
+               "HomeTeamCust": "阿仙奴图拉2",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 12232,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBEBBB389CBCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "兹纳姆亚诺金斯克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 139701,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826117,
+               "Gifdata": null,
+               "HomeTeamCust": "佩列斯韦特波多利斯克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 169712,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCB6CBB38BCCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "UTA亚拉德",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6077,
+               "CompIdCust": 2269,
+               "CompNameCust": "罗马尼亚甲级联赛",
+               "EventGroupIdCust": 35709848,
+               "Gifdata": null,
+               "HomeTeamCust": "塞林西尼学院",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 10379,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB6CBB388CFC9C8CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "沙莫林",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 13055,
+               "CompIdCust": 2633,
+               "CompNameCust": "斯洛伐克乙级联赛",
+               "EventGroupIdCust": 35826815,
+               "Gifdata": null,
+               "HomeTeamCust": "杜布尼卡",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 79545,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBBBCB6CCBBBCB9CBB38CC8CBCECBC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "老挝U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 81873,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831618,
+               "Gifdata": null,
+               "HomeTeamCust": "马来西亚U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31897,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBABBB38ACFCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "希尔尼克体育",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 27743,
+               "CompIdCust": 345,
+               "CompNameCust": "乌克兰甲级联賽",
+               "EventGroupIdCust": 35831824,
+               "Gifdata": null,
+               "HomeTeamCust": "FC VPK-A.舍甫琴科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 113151,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBCBCBABCBDBCBEBBB388CFCBCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "科索沃U19(女)",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41829,
+               "CompIdCust": 1406,
+               "CompNameCust": "欧洲U19女子锦标赛预选赛",
+               "EventGroupIdCust": 35831908,
+               "Gifdata": null,
+               "HomeTeamCust": "克罗地亚U19(女)",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 42472,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB9CCB9BCB9BBB38CCDCCCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "尼泊尔U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31060,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831998,
+               "Gifdata": null,
+               "HomeTeamCust": "伊朗U23\t",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBCBBB386CDCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "菲律宾U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31895,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35828709,
+               "Gifdata": null,
+               "HomeTeamCust": "韩国U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31898,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBBBBB388CECFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "卡拉巴克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4415,
+               "CompIdCust": 141,
+               "CompNameCust": "阿塞拜疆超级联赛",
+               "EventGroupIdCust": 35810885,
+               "Gifdata": null,
+               "HomeTeamCust": "萨巴伊",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1272,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB9BBB38CC6C9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "伊蒂哈德亚历山大",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41484,
+               "CompIdCust": 145,
+               "CompNameCust": "埃及超级联赛",
+               "EventGroupIdCust": 35810898,
+               "Gifdata": null,
+               "HomeTeamCust": "史莫哈",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 497,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB6CCB9BCB9CCB9BCBABBB38DC9C7C7CCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "PFC华纳斯巴达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109610,
+               "CompIdCust": 173,
+               "CompNameCust": "保加利亚乙级联赛",
+               "EventGroupIdCust": 35820227,
+               "Gifdata": null,
+               "HomeTeamCust": "明约匹尼克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 114477,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBDBBB387CDCECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯托克城U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 37830,
+               "CompIdCust": 179,
+               "CompNameCust": "英格兰超级联赛2乙级联赛",
+               "EventGroupIdCust": 35829336,
+               "Gifdata": null,
+               "HomeTeamCust": "西布朗U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 278,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBDBBB38ECBCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳夫特",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4923,
+               "CompIdCust": 638,
+               "CompNameCust": "伊朗超级联赛",
+               "EventGroupIdCust": 35829405,
+               "Gifdata": null,
+               "HomeTeamCust": "泰拉克托",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCB8CCB9BCB9BCB7CBB389C8CECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "LA Clippers",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 3277,
+               "CompNameCust": "*NBA",
+               "EventGroupIdCust": 35668062,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "Portland Trail Blazers",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13367,
+               "CompNameCust": "*NBA - 三分球进球数(按球队)",
+               "EventGroupIdCust": 35838602,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13182,
+               "CompNameCust": "*NBA - 第一个三分球得分",
+               "EventGroupIdCust": 35838620,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "福建豹发力",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 45521,
+               "CompIdCust": 4528,
+               "CompNameCust": "CBA - 中国男子篮球职业联赛",
+               "EventGroupIdCust": 35668955,
+               "Gifdata": null,
+               "HomeTeamCust": "上海久事",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 43590,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBEBBB387CDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-26T16:16:57.593+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "FC多尔戈普鲁德内二队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 173059,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829479,
+               "Gifdata": null,
+               "HomeTeamCust": "莫斯科迪纳摩二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20238,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "列宁格勒达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 79227,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829493,
+               "Gifdata": null,
+               "HomeTeamCust": "FC卢基纳吉亚维利奇卢基",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 30051,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBCBBB387CDCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "莫多瓦耶",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4285,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829500,
+               "Gifdata": null,
+               "HomeTeamCust": "罗迪纳莫斯科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 110805,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "杜海勒SC",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 33373,
+               "CompIdCust": 3725,
+               "CompNameCust": "卡塔尔甲级联赛",
+               "EventGroupIdCust": 35825211,
+               "Gifdata": null,
+               "HomeTeamCust": "夏马尔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 62788,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCBDBBB38FC7CECDCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "苏阿美利加",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4457,
+               "CompIdCust": 613,
+               "CompNameCust": "乌拉圭甲级联赛",
+               "EventGroupIdCust": 35740233,
+               "Gifdata": null,
+               "HomeTeamCust": "普罗格雷索",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20915,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBABCB7CCB6CCB9CBB387CEC9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳萨夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4930,
+               "CompIdCust": 441,
+               "CompNameCust": "乌兹别克超级足球联赛",
+               "EventGroupIdCust": 35816495,
+               "Gifdata": null,
+               "HomeTeamCust": "安迪江",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 7977,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCBBBCB7CCB9BCBCBBB387C8CFCFCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "巴日托",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6017,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816801,
+               "Gifdata": null,
+               "HomeTeamCust": "佩斯普拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1816,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCBDBCB8CCB9CBB38DC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "佩斯凯迪瑞",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109350,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816830,
+               "Gifdata": null,
+               "HomeTeamCust": "帕森拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 6013,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCB6CCBBBCB9BBB38AC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯瓦达圣彼得堡",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 110793,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35825945,
+               "Gifdata": null,
+               "HomeTeamCust": "基塔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 13376,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBABBB38FCECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "FC特维尔",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 136910,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826088,
+               "Gifdata": null,
+               "HomeTeamCust": "圣彼得堡泽尼特二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4270,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBDBBB38ECCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "索科尔萨拉托夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4275,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826089,
+               "Gifdata": null,
+               "HomeTeamCust": "阿仙奴图拉2",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 12232,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBEBBB389CBCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "兹纳姆亚诺金斯克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 139701,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826117,
+               "Gifdata": null,
+               "HomeTeamCust": "佩列斯韦特波多利斯克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 169712,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCB6CBB38BCCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "UTA亚拉德",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6077,
+               "CompIdCust": 2269,
+               "CompNameCust": "罗马尼亚甲级联赛",
+               "EventGroupIdCust": 35709848,
+               "Gifdata": null,
+               "HomeTeamCust": "塞林西尼学院",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 10379,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB6CBB388CFC9C8CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "沙莫林",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 13055,
+               "CompIdCust": 2633,
+               "CompNameCust": "斯洛伐克乙级联赛",
+               "EventGroupIdCust": 35826815,
+               "Gifdata": null,
+               "HomeTeamCust": "杜布尼卡",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 79545,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBBBCB6CCBBBCB9CBB38CC8CBCECBC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "老挝U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 81873,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831618,
+               "Gifdata": null,
+               "HomeTeamCust": "马来西亚U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31897,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBABBB38ACFCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "希尔尼克体育",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 27743,
+               "CompIdCust": 345,
+               "CompNameCust": "乌克兰甲级联賽",
+               "EventGroupIdCust": 35831824,
+               "Gifdata": null,
+               "HomeTeamCust": "FC VPK-A.舍甫琴科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 113151,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBCBCBABCBDBCBEBBB388CFCBCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "科索沃U19(女)",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41829,
+               "CompIdCust": 1406,
+               "CompNameCust": "欧洲U19女子锦标赛预选赛",
+               "EventGroupIdCust": 35831908,
+               "Gifdata": null,
+               "HomeTeamCust": "克罗地亚U19(女)",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 42472,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB9CCB9BCB9BBB38CCDCCCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "尼泊尔U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31060,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831998,
+               "Gifdata": null,
+               "HomeTeamCust": "伊朗U23\t",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBCBBB386CDCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "菲律宾U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31895,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35828709,
+               "Gifdata": null,
+               "HomeTeamCust": "韩国U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31898,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBBBBB388CECFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "卡拉巴克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4415,
+               "CompIdCust": 141,
+               "CompNameCust": "阿塞拜疆超级联赛",
+               "EventGroupIdCust": 35810885,
+               "Gifdata": null,
+               "HomeTeamCust": "萨巴伊",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1272,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB9BBB38CC6C9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "伊蒂哈德亚历山大",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41484,
+               "CompIdCust": 145,
+               "CompNameCust": "埃及超级联赛",
+               "EventGroupIdCust": 35810898,
+               "Gifdata": null,
+               "HomeTeamCust": "史莫哈",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 497,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB6CCB9BCB9CCB9BCBABBB38DC9C7C7CCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "PFC华纳斯巴达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109610,
+               "CompIdCust": 173,
+               "CompNameCust": "保加利亚乙级联赛",
+               "EventGroupIdCust": 35820227,
+               "Gifdata": null,
+               "HomeTeamCust": "明约匹尼克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 114477,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBDBBB387CDCECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯托克城U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 37830,
+               "CompIdCust": 179,
+               "CompNameCust": "英格兰超级联赛2乙级联赛",
+               "EventGroupIdCust": 35829336,
+               "Gifdata": null,
+               "HomeTeamCust": "西布朗U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 278,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBDBBB38ECBCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳夫特",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4923,
+               "CompIdCust": 638,
+               "CompNameCust": "伊朗超级联赛",
+               "EventGroupIdCust": 35829405,
+               "Gifdata": null,
+               "HomeTeamCust": "泰拉克托",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCB8CCB9BCB9BCB7CBB389C8CECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "LA Clippers",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 3277,
+               "CompNameCust": "*NBA",
+               "EventGroupIdCust": 35668062,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "Portland Trail Blazers",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13367,
+               "CompNameCust": "*NBA - 三分球进球数(按球队)",
+               "EventGroupIdCust": 35838602,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13182,
+               "CompNameCust": "*NBA - 第一个三分球得分",
+               "EventGroupIdCust": 35838620,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "福建豹发力",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 45521,
+               "CompIdCust": 4528,
+               "CompNameCust": "CBA - 中国男子篮球职业联赛",
+               "EventGroupIdCust": 35668955,
+               "Gifdata": null,
+               "HomeTeamCust": "上海久事",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 43590,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBEBBB387CDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-26T16:16:58.762+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "FC多尔戈普鲁德内二队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 173059,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829479,
+               "Gifdata": null,
+               "HomeTeamCust": "莫斯科迪纳摩二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20238,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "列宁格勒达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 79227,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829493,
+               "Gifdata": null,
+               "HomeTeamCust": "FC卢基纳吉亚维利奇卢基",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 30051,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBCBBB387CDCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "莫多瓦耶",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4285,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35829500,
+               "Gifdata": null,
+               "HomeTeamCust": "罗迪纳莫斯科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 110805,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "杜海勒SC",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 33373,
+               "CompIdCust": 3725,
+               "CompNameCust": "卡塔尔甲级联赛",
+               "EventGroupIdCust": 35825211,
+               "Gifdata": null,
+               "HomeTeamCust": "夏马尔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 62788,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCBDBBB38FC7CECDCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "苏阿美利加",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4457,
+               "CompIdCust": 613,
+               "CompNameCust": "乌拉圭甲级联赛",
+               "EventGroupIdCust": 35740233,
+               "Gifdata": null,
+               "HomeTeamCust": "普罗格雷索",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20915,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBABCB7CCB6CCB9CBB387CEC9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳萨夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4930,
+               "CompIdCust": 441,
+               "CompNameCust": "乌兹别克超级足球联赛",
+               "EventGroupIdCust": 35816495,
+               "Gifdata": null,
+               "HomeTeamCust": "安迪江",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 7977,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCBBBCB7CCB9BCBCBBB387C8CFCFCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "巴日托",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6017,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816801,
+               "Gifdata": null,
+               "HomeTeamCust": "佩斯普拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1816,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCBDBCB8CCB9CBB38DC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "佩斯凯迪瑞",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109350,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventGroupIdCust": 35816830,
+               "Gifdata": null,
+               "HomeTeamCust": "帕森拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 6013,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCB6CCBBBCB9BBB38AC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯瓦达圣彼得堡",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 110793,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35825945,
+               "Gifdata": null,
+               "HomeTeamCust": "基塔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 13376,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBABBB38FCECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "FC特维尔",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 136910,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826088,
+               "Gifdata": null,
+               "HomeTeamCust": "圣彼得堡泽尼特二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4270,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBDBBB38ECCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "索科尔萨拉托夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4275,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826089,
+               "Gifdata": null,
+               "HomeTeamCust": "阿仙奴图拉2",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 12232,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBEBBB389CBCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "兹纳姆亚诺金斯克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 139701,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventGroupIdCust": 35826117,
+               "Gifdata": null,
+               "HomeTeamCust": "佩列斯韦特波多利斯克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 169712,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCB6CBB38BCCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "UTA亚拉德",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6077,
+               "CompIdCust": 2269,
+               "CompNameCust": "罗马尼亚甲级联赛",
+               "EventGroupIdCust": 35709848,
+               "Gifdata": null,
+               "HomeTeamCust": "塞林西尼学院",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 10379,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB6CBB388CFC9C8CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "沙莫林",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 13055,
+               "CompIdCust": 2633,
+               "CompNameCust": "斯洛伐克乙级联赛",
+               "EventGroupIdCust": 35826815,
+               "Gifdata": null,
+               "HomeTeamCust": "杜布尼卡",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 79545,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBBBCB6CCBBBCB9CBB38CC8CBCECBC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "老挝U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 81873,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831618,
+               "Gifdata": null,
+               "HomeTeamCust": "马来西亚U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31897,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBABBB38ACFCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "希尔尼克体育",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 27743,
+               "CompIdCust": 345,
+               "CompNameCust": "乌克兰甲级联賽",
+               "EventGroupIdCust": 35831824,
+               "Gifdata": null,
+               "HomeTeamCust": "FC VPK-A.舍甫琴科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 113151,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBCBCBABCBDBCBEBBB388CFCBCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "科索沃U19(女)",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41829,
+               "CompIdCust": 1406,
+               "CompNameCust": "欧洲U19女子锦标赛预选赛",
+               "EventGroupIdCust": 35831908,
+               "Gifdata": null,
+               "HomeTeamCust": "克罗地亚U19(女)",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 42472,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB9CCB9BCB9BBB38CCDCCCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "尼泊尔U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31060,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35831998,
+               "Gifdata": null,
+               "HomeTeamCust": "伊朗U23\t",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBCBBB386CDCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "菲律宾U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31895,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventGroupIdCust": 35828709,
+               "Gifdata": null,
+               "HomeTeamCust": "韩国U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31898,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBBBBB388CECFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "卡拉巴克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4415,
+               "CompIdCust": 141,
+               "CompNameCust": "阿塞拜疆超级联赛",
+               "EventGroupIdCust": 35810885,
+               "Gifdata": null,
+               "HomeTeamCust": "萨巴伊",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1272,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB9BBB38CC6C9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "伊蒂哈德亚历山大",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41484,
+               "CompIdCust": 145,
+               "CompNameCust": "埃及超级联赛",
+               "EventGroupIdCust": 35810898,
+               "Gifdata": null,
+               "HomeTeamCust": "史莫哈",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 497,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB6CCB9BCB9CCB9BCBABBB38DC9C7C7CCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "PFC华纳斯巴达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109610,
+               "CompIdCust": 173,
+               "CompNameCust": "保加利亚乙级联赛",
+               "EventGroupIdCust": 35820227,
+               "Gifdata": null,
+               "HomeTeamCust": "明约匹尼克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 114477,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBDBBB387CDCECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯托克城U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 37830,
+               "CompIdCust": 179,
+               "CompNameCust": "英格兰超级联赛2乙级联赛",
+               "EventGroupIdCust": 35829336,
+               "Gifdata": null,
+               "HomeTeamCust": "西布朗U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 278,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBDBBB38ECBCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳夫特",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4923,
+               "CompIdCust": 638,
+               "CompNameCust": "伊朗超级联赛",
+               "EventGroupIdCust": 35829405,
+               "Gifdata": null,
+               "HomeTeamCust": "泰拉克托",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCB8CCB9BCB9BCB7CBB389C8CECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "LA Clippers",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 3277,
+               "CompNameCust": "*NBA",
+               "EventGroupIdCust": 35668062,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "Portland Trail Blazers",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13367,
+               "CompNameCust": "*NBA - 三分球进球数(按球队)",
+               "EventGroupIdCust": 35838602,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13182,
+               "CompNameCust": "*NBA - 第一个三分球得分",
+               "EventGroupIdCust": 35838620,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "福建豹发力",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 45521,
+               "CompIdCust": 4528,
+               "CompNameCust": "CBA - 中国男子篮球职业联赛",
+               "EventGroupIdCust": 35668955,
+               "Gifdata": null,
+               "HomeTeamCust": "上海久事",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 43590,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBEBBB387CDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-26T16:27:18.870+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: ::1, costtm: 1 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "FC多尔戈普鲁德内二队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 173059,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventDateCust": "2021-10-25T13:00:00Z",
+               "EventGroupIdCust": 35829479,
+               "Gifdata": null,
+               "HomeTeamCust": "莫斯科迪纳摩二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20238,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "列宁格勒达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 79227,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventDateCust": "2021-10-25T13:00:00Z",
+               "EventGroupIdCust": 35829493,
+               "Gifdata": null,
+               "HomeTeamCust": "FC卢基纳吉亚维利奇卢基",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 30051,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBCBBB387CDCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "莫多瓦耶",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4285,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventDateCust": "2021-10-25T13:00:00Z",
+               "EventGroupIdCust": 35829500,
+               "Gifdata": null,
+               "HomeTeamCust": "罗迪纳莫斯科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 110805,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB8CCBCBCBDBCBABBB386CECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "杜海勒SC",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 33373,
+               "CompIdCust": 3725,
+               "CompNameCust": "卡塔尔甲级联赛",
+               "EventDateCust": "2021-10-25T14:20:00Z",
+               "EventGroupIdCust": 35825211,
+               "Gifdata": null,
+               "HomeTeamCust": "夏马尔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 62788,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCBDBBB38FC7CECDCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "苏阿美利加",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4457,
+               "CompIdCust": 613,
+               "CompNameCust": "乌拉圭甲级联赛",
+               "EventDateCust": "2021-10-25T13:15:00Z",
+               "EventGroupIdCust": 35740233,
+               "Gifdata": null,
+               "HomeTeamCust": "普罗格雷索",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 20915,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBABCB7CCB6CCB9CBB387CEC9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳萨夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4930,
+               "CompIdCust": 441,
+               "CompNameCust": "乌兹别克超级足球联赛",
+               "EventDateCust": "2021-10-25T10:15:00Z",
+               "EventGroupIdCust": 35816495,
+               "Gifdata": null,
+               "HomeTeamCust": "安迪江",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 7977,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCBBBCB7CCB9BCBCBBB387C8CFCFCCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "巴日托",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6017,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventDateCust": "2021-10-25T08:15:00Z",
+               "EventGroupIdCust": 35816801,
+               "Gifdata": null,
+               "HomeTeamCust": "佩斯普拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1816,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCBDBCB8CCB9CBB38DC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "佩斯凯迪瑞",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109350,
+               "CompIdCust": 107,
+               "CompNameCust": "印度尼西亚甲级联赛",
+               "EventDateCust": "2021-10-25T13:30:00Z",
+               "EventGroupIdCust": 35816830,
+               "Gifdata": null,
+               "HomeTeamCust": "帕森拉",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 6013,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBABCB9BCBCBCB6CCBBBCB9BBB38AC6CBC7CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯瓦达圣彼得堡",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 110793,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventDateCust": "2021-10-25T07:00:00Z",
+               "EventGroupIdCust": 35825945,
+               "Gifdata": null,
+               "HomeTeamCust": "基塔",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 13376,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBABBB38FCECDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "FC特维尔",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 136910,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventDateCust": "2021-10-25T11:00:00Z",
+               "EventGroupIdCust": 35826088,
+               "Gifdata": null,
+               "HomeTeamCust": "圣彼得堡泽尼特二队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4270,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCBDBBB38ECCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "索科尔萨拉托夫",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4275,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventDateCust": "2021-10-25T11:00:00Z",
+               "EventGroupIdCust": 35826089,
+               "Gifdata": null,
+               "HomeTeamCust": "阿仙奴图拉2",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 12232,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBEBBB389CBCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "兹纳姆亚诺金斯克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 139701,
+               "CompIdCust": 143,
+               "CompNameCust": "俄罗斯乙级联赛",
+               "EventDateCust": "2021-10-25T12:00:00Z",
+               "EventGroupIdCust": 35826117,
+               "Gifdata": null,
+               "HomeTeamCust": "佩列斯韦特波多利斯克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 169712,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBABCB6CBB38BCCCDCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "UTA亚拉德",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 6077,
+               "CompIdCust": 2269,
+               "CompNameCust": "罗马尼亚甲级联赛",
+               "EventDateCust": "2021-10-25T14:30:00Z",
+               "EventGroupIdCust": 35709848,
+               "Gifdata": null,
+               "HomeTeamCust": "塞林西尼学院",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 10379,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB6CBB388CFC9C8CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "沙莫林",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 13055,
+               "CompIdCust": 2633,
+               "CompNameCust": "斯洛伐克乙级联赛",
+               "EventDateCust": "2021-10-25T12:30:00Z",
+               "EventGroupIdCust": 35826815,
+               "Gifdata": null,
+               "HomeTeamCust": "杜布尼卡",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 79545,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBBBCB6CCBBBCB9CBB38CC8CBCECBC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "老挝U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 81873,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventDateCust": "2021-10-25T07:00:00Z",
+               "EventGroupIdCust": 35831618,
+               "Gifdata": null,
+               "HomeTeamCust": "马来西亚U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31897,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBABBB38ACFCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "希尔尼克体育",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 27743,
+               "CompIdCust": 345,
+               "CompNameCust": "乌克兰甲级联賽",
+               "EventDateCust": "2021-10-25T12:30:00Z",
+               "EventGroupIdCust": 35831824,
+               "Gifdata": null,
+               "HomeTeamCust": "FC VPK-A.舍甫琴科",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 113151,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBCBCBCBCBABCBDBCBEBBB388CFCBCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "科索沃U19(女)",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41829,
+               "CompIdCust": 1406,
+               "CompNameCust": "欧洲U19女子锦标赛预选赛",
+               "EventDateCust": "2021-10-25T09:00:00Z",
+               "EventGroupIdCust": 35831908,
+               "Gifdata": null,
+               "HomeTeamCust": "克罗地亚U19(女)",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 42472,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB9CCB9BCB9BBB38CCDCCCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "尼泊尔U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31060,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventDateCust": "2021-10-25T11:00:00Z",
+               "EventGroupIdCust": 35831998,
+               "Gifdata": null,
+               "HomeTeamCust": "伊朗U23\t",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBCBBB386CDCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "菲律宾U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 31895,
+               "CompIdCust": 29516,
+               "CompNameCust": "AFC U23亚洲杯预选赛",
+               "EventDateCust": "2021-10-25T09:00:00Z",
+               "EventGroupIdCust": 35828709,
+               "Gifdata": null,
+               "HomeTeamCust": "韩国U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 31898,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBBBBB388CECFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "卡拉巴克",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4415,
+               "CompIdCust": 141,
+               "CompNameCust": "阿塞拜疆超级联赛",
+               "EventDateCust": "2021-10-25T15:00:00Z",
+               "EventGroupIdCust": 35810885,
+               "Gifdata": null,
+               "HomeTeamCust": "萨巴伊",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1272,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCBBBCB9BBB38CC6C9C6CDC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "伊蒂哈德亚历山大",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 41484,
+               "CompIdCust": 145,
+               "CompNameCust": "埃及超级联赛",
+               "EventDateCust": "2021-10-25T15:30:00Z",
+               "EventGroupIdCust": 35810898,
+               "Gifdata": null,
+               "HomeTeamCust": "史莫哈",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 497,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB6CCB9BCB9CCB9BCBABBB38DC9C7C7CCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "PFC华纳斯巴达",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 109610,
+               "CompIdCust": 173,
+               "CompNameCust": "保加利亚乙级联赛",
+               "EventDateCust": "2021-10-25T13:00:00Z",
+               "EventGroupIdCust": 35820227,
+               "Gifdata": null,
+               "HomeTeamCust": "明约匹尼克",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 114477,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCB9BCBEBCB9BCBDBBB387CDCECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "斯托克城U23",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 37830,
+               "CompIdCust": 179,
+               "CompNameCust": "英格兰超级联赛2乙级联赛",
+               "EventDateCust": "2021-10-25T12:00:00Z",
+               "EventGroupIdCust": 35829336,
+               "Gifdata": null,
+               "HomeTeamCust": "西布朗U23",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 278,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBBBCBABCB7CCBDBBB38ECBCFCACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "纳夫特",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 4923,
+               "CompIdCust": 638,
+               "CompNameCust": "伊朗超级联赛",
+               "EventDateCust": "2021-10-25T14:30:00Z",
+               "EventGroupIdCust": 35829405,
+               "Gifdata": null,
+               "HomeTeamCust": "泰拉克托",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 4926,
+               "SportIdCust": 1,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB7CCB8CCB9BCB9BCB7CBB389C8CECACCC6CCCBA9B3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "LA Clippers",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 3277,
+               "CompNameCust": "*NBA",
+               "EventDateCust": "2021-10-26T02:30:00Z",
+               "EventGroupIdCust": 35668062,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "Portland Trail Blazers",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13367,
+               "CompNameCust": "*NBA - 三分球进球数(按球队)",
+               "EventDateCust": "2021-10-26T02:30:00Z",
+               "EventGroupIdCust": 35838602,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "波特兰开拓者",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 29610,
+               "CompIdCust": 13182,
+               "CompNameCust": "*NBA - 第一个三分球得分",
+               "EventDateCust": "2021-10-26T02:30:00Z",
+               "EventGroupIdCust": 35838620,
+               "Gifdata": null,
+               "HomeTeamCust": "洛杉矶快船",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 1928,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBDBBB38ACDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "福建豹发力",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 45521,
+               "CompIdCust": 4528,
+               "CompNameCust": "CBA - 中国男子篮球职业联赛",
+               "EventDateCust": "2021-10-26T03:00:00Z",
+               "EventGroupIdCust": 35668955,
+               "Gifdata": null,
+               "HomeTeamCust": "上海久事",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 43590,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBDBCBCBCB8CCB7CCBEBBB387CDCACCC9C9C4BDB3"
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-29T11:37:36.465+0800	ERROR	vedios info tab[GS_REAL_TIME_EVENT_MATCH_HGUAN_IM] ptp[2]  find err%!(EXTRA string=connection() error occured during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism "SCRAM-SHA-1": (AuthenticationFailed) Authentication failed.)
+2021-10-29T11:38:00.477+0800	ERROR	vedios info tab[GS_REAL_TIME_EVENT_MATCH_HGUAN_IM] ptp[2]  find err%!(EXTRA string=connection() error occured during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism "SCRAM-SHA-1": (AuthenticationFailed) Authentication failed.)
+2021-10-29T11:39:54.200+0800	ERROR	vedios info tab[GS_REAL_TIME_EVENT_MATCH_HGUAN_IM] ptp[2]  find err:connection() error occured during connection handshake: auth error: sasl conversation error: unable to authenticate using mechanism "SCRAM-SHA-1": (AuthenticationFailed) Authentication failed.
+2021-10-29T17:30:28.175+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [],
+     "res": 1
+}
+2021-10-29T17:30:28.461+0800	INFO	method: GET, uri: /favicon.ico, status: 404, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{}
+2021-10-29T17:30:31.454+0800	INFO	method: GET, uri: /vedios_info?ptp=7, status: 200, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [],
+     "res": 1
+}
+2021-10-29T17:31:46.510+0800	INFO	method: GET, uri: /vedios_info?ptp=7, status: 200, clientIP: ::1, costtm: 2 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "上海大鲨鱼队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 0,
+               "CompIdCust": 0,
+               "CompNameCust": "中国男子篮球职业联赛(在浙江)",
+               "EventDateCust": "2021-10-29T07:00:00Z",
+               "EventGroupIdCust": 47430528,
+               "Gifdata": null,
+               "HomeTeamCust": "江苏龙肯帝亚队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 0,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBDBCB9BCBCBCB6CBB389CCC7CBC9C9C4BDB3"
+                              }
+                         ]
+                    },
+                    {
+                         "srctp": 7,
+                         "vdata": [
+                              {
+                                   "SSportType": 2,
+                                   "channelCode": "k/7L+pCxhWlMdx2s9+J31g=",
+                                   "streamingOption": 786432
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "吉林东北虎队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 0,
+               "CompIdCust": 0,
+               "CompNameCust": "中国男子篮球职业联赛(在浙江)",
+               "EventDateCust": "2021-10-29T07:00:00Z",
+               "EventGroupIdCust": 47430527,
+               "Gifdata": null,
+               "HomeTeamCust": "浙江广厦猛狮队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 0,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBDBCB9BCBCBCB7CBB38CCCC7CBC9C9C4BDB3"
+                              }
+                         ]
+                    },
+                    {
+                         "srctp": 7,
+                         "vdata": [
+                              {
+                                   "SSportType": 2,
+                                   "channelCode": "rVrlvf0v+GbYbvQN6G3mXw=",
+                                   "streamingOption": 786432
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "北海道日本火腿斗士队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 0,
+               "CompIdCust": 0,
+               "CompNameCust": "日本职业棒球",
+               "EventDateCust": "2021-10-29T08:45:00Z",
+               "EventGroupIdCust": 47462681,
+               "Gifdata": null,
+               "HomeTeamCust": "千叶罗德海洋队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 0,
+               "SportIdCust": 8,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB9CCBBBCB7CCB6CCBCBBB38FCDCECCC8CECCADB3"
+                              }
+                         ]
+                    },
+                    {
+                         "srctp": 7,
+                         "vdata": [
+                              {
+                                   "SSportType": 8,
+                                   "channelCode": "epOn2HDwehs",
+                                   "streamingOption": 262144
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}
+2021-10-29T17:31:49.876+0800	INFO	method: GET, uri: /vedios_info?ptp=2, status: 200, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [],
+     "res": 1
+}
+2021-10-29T17:31:53.750+0800	INFO	method: GET, uri: /vedios_info?ptp=7, status: 200, clientIP: ::1, costtm: 0 ms, params:null, resbody:
+{
+     "data": [
+          {
+               "AwayTeamCust": "上海大鲨鱼队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 0,
+               "CompIdCust": 0,
+               "CompNameCust": "中国男子篮球职业联赛(在浙江)",
+               "EventDateCust": "2021-10-29T07:00:00Z",
+               "EventGroupIdCust": 47430528,
+               "Gifdata": null,
+               "HomeTeamCust": "江苏龙肯帝亚队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 0,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBDBCB9BCBCBCB6CBB389CCC7CBC9C9C4BDB3"
+                              }
+                         ]
+                    },
+                    {
+                         "srctp": 7,
+                         "vdata": [
+                              {
+                                   "SSportType": 2,
+                                   "channelCode": "k/7L+pCxhWlMdx2s9+J31g=",
+                                   "streamingOption": 786432
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "吉林东北虎队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 0,
+               "CompIdCust": 0,
+               "CompNameCust": "中国男子篮球职业联赛(在浙江)",
+               "EventDateCust": "2021-10-29T07:00:00Z",
+               "EventGroupIdCust": 47430527,
+               "Gifdata": null,
+               "HomeTeamCust": "浙江广厦猛狮队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 0,
+               "SportIdCust": 2,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCBEBCBDBCB9BCBCBCB7CBB38CCCC7CBC9C9C4BDB3"
+                              }
+                         ]
+                    },
+                    {
+                         "srctp": 7,
+                         "vdata": [
+                              {
+                                   "SSportType": 2,
+                                   "channelCode": "rVrlvf0v+GbYbvQN6G3mXw=",
+                                   "streamingOption": 786432
+                              }
+                         ]
+                    }
+               ]
+          },
+          {
+               "AwayTeamCust": "北海道日本火腿斗士队",
+               "AwayTeamCustEn": "",
+               "AwayTeamIdCust": 0,
+               "CompIdCust": 0,
+               "CompNameCust": "日本职业棒球",
+               "EventDateCust": "2021-10-29T08:45:00Z",
+               "EventGroupIdCust": 47462681,
+               "Gifdata": null,
+               "HomeTeamCust": "千叶罗德海洋队",
+               "HomeTeamCustEn": "",
+               "HomeTeamIdCust": 0,
+               "SportIdCust": 8,
+               "Vdata": [
+                    {
+                         "srctp": 29,
+                         "vdata": [
+                              {
+                                   "ID": "8ACEBDBEB6CCBEBCBBBCB9CCBBBCB7CCB6CCBCBBB38FCDCECCC8CECCADB3"
+                              }
+                         ]
+                    },
+                    {
+                         "srctp": 7,
+                         "vdata": [
+                              {
+                                   "SSportType": 8,
+                                   "channelCode": "epOn2HDwehs",
+                                   "streamingOption": 262144
+                              }
+                         ]
+                    }
+               ]
+          }
+     ],
+     "res": 1
+}

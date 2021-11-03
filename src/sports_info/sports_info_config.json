@@ -1,0 +1,37 @@
+{
+    "db_collect": {
+        "uri": "10.2.2.11:65100",
+        "crypto": false,
+        "user": "",
+        "pwd": ""
+    }, 
+    "db_collect2": {
+        "uri": "10.2.2.11:27017",
+        "crypto": false,
+        "user": "",
+        "pwd": ""
+    }, 
+    "db_collect1": {
+        "uri": "10.2.2.99:27017",
+        "crypto": true,
+        "user": "Hsy/GYxoluN2Hy8/CnuJBw==",
+        "pwd": "oLf7SkbJa8sbCC7hGElxzA=="
+    },
+    "log" :{
+	    "filename" : "logs/sports_info/log.txt",
+	    "maxsize" : 10,
+	    "maxbackups" :30,
+	    "maxage" :30,
+	    "compress" :false,
+	    "log_resbody" :true
+    },
+    
+   "svr_port" : ":8085",
+    "version": "0.0.1",
+    "configurations": 
+       [ {
+            "mode1": "mode1",
+            "mode": "mode"
+        }]
+    
+}

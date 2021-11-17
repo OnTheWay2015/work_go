@@ -8,6 +8,17 @@ import (
 )
 
 //=================================================================
+//在 conf/app.conf 配置里配置
+/*
+######################基础配置############################
+AppName             = app test
+HttpPort            = 8099     #端口
+RunMode             = dev
+CommentRouterPath ="helloworld\controllers"   #注解路由文件目录
+
+*/
+
+//=================================================================
 //https://beego.me/docs/mvc/controller/router.md
 func Test_beego() {
 	beego.Router("/", &controllers.MainController{})

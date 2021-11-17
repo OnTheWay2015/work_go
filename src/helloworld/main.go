@@ -202,6 +202,8 @@ return_types：	返回类型，函数返回一列值。return_types 是该列值
 函数体：		函数定义的代码集合。
 
 
+//注意 参数没有默认值.  一般多参数的方法可定义一个类型做为参数, 后续好扩展
+
 
 返回多个值示例
 	func swap(x, y string) (string, string) {
@@ -490,6 +492,14 @@ type struct_name2 struct {
    // variables
 }
 
+type struct_name3 struct {
+	struct_name1    //继承
+	stn2 struct_name2 //组合
+   // variables
+}
+
+
+
 // 实现接口方法
 func (struct_name_variable struct_name1) method_name() [return_type] {
 }
@@ -502,6 +512,34 @@ objs := []interface_name {struct_name1{}, struct_name1{}}
 for _, obj := range objs {
 	obj.method_name()
 }
+
+
+//嵌套写法
+aaa := map[string]interface{}{
+	"tp":          1,
+	"obj":         map[string]interface{}{"a": 1},
+	"arr_obj":     []map[string]interface{}{{"b": 1}, {}},
+	"arr_arr":     [][]map[string]interface{}{},
+	"arr_arr_arr": [][][]map[string]interface{}{},
+}
+
+
+*/
+
+/*
+
+继承
+一个结构体嵌到另一个结构体，称作组合
+匿名和组合的区别
+如果一个struct嵌套了另一个匿名结构体，那么这个结构可以直接访问匿名结构体的方法，从而实现继承
+如果一个struct嵌套了另一个【有名】的结构体，那么这个模式叫做组合
+如果一个struct嵌套了多个匿名结构体，那么这个结构可以直接访问多个匿名结构体的方法，从而实现多重继承
+
+
+
+
+
+
 
 
 */
@@ -779,6 +817,8 @@ func main_test() {
 	//test__123.Test_mongodb()
 	//test__123.Test_gin()
 	test__123.Test_beego()
+	//test__123.Test_nacos()
+	//test__123.Test_sample_nacos()
 }
 
 func main_gin() {

@@ -152,7 +152,7 @@ type 可以给类型取别名
 	   		ptr = &a     // 'ptr' 包含了 'a' 变量的地址
 		}
 
-	= 	赋值,浅拷贝
+	= 	赋值
 	:= 	声明变量并赋值, 声明变量前面不用 var
 
 */
@@ -353,6 +353,7 @@ balance := [5]float32{1:2.0,3:7.0}
 
 /*
 Slice 是对数组的抽象,动态数组
+
 定义
 	1.声明一个未指定大小的数组来创建：
 	var identifier []type
@@ -399,6 +400,89 @@ Slice 截取
 	numbers[4:] // 从 4 到最后.
 	numbers[:2]  // 0(包含) 到 索引 2(不包含)
 	numbers[2:5] // 2(包含) 到 索引 5(不包含)
+
+
+
+slice 三个属性
+golang 的 slice 是一个指向底层的数组的指针结构体。
+ 这个结构体有三个属性，1.指向数组指针，2.len： slice中元素的数量 3.cap：slice占用内存数量。
+
+正确理解变量和共享
+多个slice之间可以共享底层的数据，并且引用的数组部分区间可能重叠
+
+以上是golang 圣经中的一句话。深刻理解这句话对于日程编程非常有意义。
+
+1.什么时候共享数据会被其他变量修改
+func f1()  {
+    a1 := []int{1,2,3,4,5,6}
+    a2 := a1
+    a3 := a1[1:3]
+
+    a1[1] = 999
+
+    fmt.Println("a1=",a1,"a2=",a2,"a3=",a3)
+}
+运行结果
+
+a1= [1 999 3 4 5 6] a2= [1 999 3 4 5 6] a3= [999 3]
+
+Process finished with exit code 0
+我们清楚的看到了数据共享，此时修改了a1 ，两位两个变量都被修改
+
+什么时候不会修改
+func f2()  {
+    a1 := []int{1,2,3,4,5,6}
+    a2 := a1
+    a3 := a1[1:3]
+
+    a2 = append(a2,888)
+
+    a1[1] = 999
+
+    fmt.Println("a1=",a1,"a2=",a2,"a3=",a3)
+}
+运行结果
+
+a1= [1 999 3 4 5 6] a2= [1 2 3 4 5 6 888] a3= [999 3]
+
+Process finished with exit code 0
+
+可以虽然a1被修改，a2并没有修改。我们知道append函数会面临内存的重新分配。
+所以等a2进行append的时候，会重新申请内存空间，将原有数组拷贝然后增加如新值。
+也就是当append操作的时候，此时a2 不在和a1 共享内存了。所以后续对a1的操作是不会影响到a2.
+
+3.所有的 append 操作都会隔断内存共享？
+func f3()  {
+    a1 := []int{1,2,3,4,5,6}
+    a2 := a1
+    a3 := a1[1:3]
+    a2 = append(a2,888)
+    a3 = append(a3,777)
+
+    a1[1] = 999
+
+    fmt.Println("a1=",a1,"a2=",a2,"a3=",a3)
+}
+
+运行结果
+a1= [1 999 3 777 5 6] a2= [1 2 3 4 5 6 888] a3= [999 3 777]
+
+Process finished with exit code 0
+
+这次a3 是对a1进行切片操作赋值的新变量。此时对a3进行append操作，我们发现a1的值同步被修改了。所以此时a3 和a1 仍然是共享内存，append并没有申请新的内存空间而是继续在a3的数据末尾写入，这样对于a1 是覆盖了原有值。
+
+问题本质是
+a1= [1 999 3 777 5 6] cap(a1) =  6  a2= [1 2 3 4 5 6 888] cap(a2) =  12  a3= [999 3 777] cap(a3) =  5
+
+重新运行后将三个变量 cap 值打印为以上输出。
+问题的本质是len 和cap 的值。 在slice中，当len小于cap 的值的时候， 进行append 操作是不会造成内存的重新分配。
+a3 是从a1切片操作而来，我们看到a3 初始化的len =2 ，cap =5.所以在append中不会引起内存重新分配，go 运行时会继续将数据依次写入。
+这样就修改了a3 和a1共享的内存空间。 对于a2，在初始化的时候len =cap =6. 在append操作的时候就会重新申请空间，go会分配当前空间 * 2 的内存。所以append后的cap就是12 如上。
+
+总结
+在对slice 复制的时候，如果面临多个变量同时指向一个数组的时候，一定要考虑到数据的共享和内存的重新分配。
+
+
 
 */
 
@@ -463,7 +547,27 @@ interface{} 类型是没有方法的接口 (这是一个类型,相当于 c# 的 
 		//安全的断言方法： <目标接口类型值>, ok := <空接口值>.(目标接口类型)
 		//非安全的断言方法：<目标接口类型值> := <空接口值>.(目标接口类型)
 
-	//x.(type) 类型断言,返回 x 的类型. 当 x 是 interface{} 时非常有用
+	//t:= x.(type) 类型断言,返回 x 的类型. 当 x 是 interface{} 时非常有用
+
+			func aaaa(a interface{}) {
+				//fmt.Println(a)
+				i, ok := a.(f)   //f 是声明的一个接口类型
+				if ok {
+					i.act()
+				}
+			}
+
+
+			func test_map3(m interface{}) {
+				switch mm := m.(type) {    //  switch   xxx := x.(type)  是固定格式
+				case map[string]int:
+					mm["aa"] = 1234
+					break
+
+				}
+
+			}
+
 
 	Go 中的所有东西都是按值传递的。每次调用函数时，传入的数据都会被复制。
 	对于具有值接收者的方法，在调用该方法时将复制该值。例如下面的方法：
@@ -724,6 +828,29 @@ select {
 //反射
 //"reflect"
 
+type Value struct {
+	typ *rtype  // typ holds the type of the value represented by a Value.
+
+	// Pointer-valued data or, if flagIndir is set, pointer to data.
+	// Valid when either flagIndir is set or typ.pointers() is true.
+	ptr unsafe.Pointer
+
+	flag
+}
+
+//reflect.TypeOf() 参数必须传基础类型. 复杂结构(map,slice),自定义类实例,需传入指针
+t := reflect.TypeOf((*Foo1)(nil)) //返回一个 reflect.Value 类型
+
+
+
+
+
+
+
+
+
+
+
 
 */
 
@@ -786,133 +913,56 @@ context 包的核心就是 Context 接口，其定义如下：
 
 */
 
+/*
+双引号/反引号/ 单引号
+
+在Go语言中不倾向于使用单引号来表示字符串,请根据需要使用双引号或反引号。
+
+一个Go语言字符串是一个任意字节的常量序列。Go语言的字符串类型在本质上就与其他语言的字符串类型不同。
+Java的String、C++的std::string以及python3的str类型都只是定宽字符序列,
+而 Go语言的字符串是一个用UTF-8编码的变宽字符序列,它的每一个字符都用一个或多个字节表示 。
+
+Go语言中的字符串字面量使用 双引号 或 反引号 来创建:
+
+双引号用来创建 可解析的字符串字面量 (支持转义,但不能用来引用多行)；
+反引号用来创建 原生的字符串字面量 ,这些字符串可能由多行组成(不支持任何转义序列),原生的字符串字面量多用于书写多行消息、HTML以及正则表达式。
+单引号一般用来表示「rune literal」 ，即——字面量。
+
+
+
+*/
+
+/*
+//字符串 string
+
+*/
+
 package main
 
 import (
-	"fmt"
 	test "helloworld/pbtest"
 	"helloworld/test__123"
 
 	//"helloworld/test__123"
 	"log"
-	"reflect"
-	"time"
 
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/davyxu/cellnet"
-	"github.com/davyxu/cellnet/codec"
-	"github.com/davyxu/cellnet/peer"
 	_ "github.com/davyxu/cellnet/peer/tcp" // 注册TCP Peer
-	"github.com/davyxu/cellnet/proc"
 	_ "github.com/davyxu/cellnet/proc/tcp" // 注册TCP Processor
-	"github.com/davyxu/cellnet/util"
 )
 
 func main_test() {
-	//test__123.TestSingle()
+	test__123.TestSingle()
 	//test__123.TestNet()
 	//test__123.Say()
 	//test__123.Test_mongodb()
 	//test__123.Test_gin()
-	test__123.Test_beego()
+	//test__123.Test_beego()
 	//test__123.Test_nacos()
 	//test__123.Test_sample_nacos()
-}
-
-func main_gin() {
-
-	//r := gin.Default()
-	//r.GET("/", func(c *gin.Context) {
-	//	c.String(200, "Hello")
-	//})
-	//r.Run() // listen and serve on 0.0.0.0:8080
-}
-
-const peerAddress = "127.0.0.1:17701"
-
-type TestEchoACK struct {
-	Msg   string
-	Value int32
-}
-
-type TestI interface {
-	act()
-}
-
-func (self *TestEchoACK) act() {
-	fmt.Println("TestEchoACK act!")
-	self.Value = 123
-}
-
-func testFunc(a TestI) {
-	a.act()
-}
-
-func ttttttt() {
-	a := &TestEchoACK{"aa", 100}
-
-	testFunc(a)
-
-	fmt.Printf("TestEchoACK %+v\n", a)
-}
-
-// 服务器逻辑
-func server_cellnet() {
-
-	// 创建服务器的事件队列，所有的消息，事件都会被投入这个队列处理
-	queue := cellnet.NewEventQueue()
-
-	// 创建一个服务器的接受器(Acceptor)，接受客户端的连接
-	peerIns := peer.NewGenericPeer("tcp.Acceptor", "server", peerAddress, queue)
-
-	// 将接受器Peer与tcp.ltv的处理器绑定，并设置事件处理回调
-	// tcp.ltv处理器负责处理消息收发，使用私有的封包格式以及日志，RPC等处理
-	proc.BindProcessorHandler(peerIns, "tcp.ltv", func(ev cellnet.Event) {
-
-		// 处理Peer收到的各种事件
-		switch msg := ev.Message().(type) {
-		case *cellnet.SessionAccepted: // 接受一个连接
-			fmt.Println("server accepted")
-		case *test.ContentACK: // 收到连接发送的消息
-
-			fmt.Printf("server recv pb: %+v\n", msg)
-
-		case *TestEchoACK: // 收到连接发送的消息
-
-			fmt.Printf("server recv %+v\n", msg)
-
-			// 发送回应消息
-			ev.Session().Send(&TestEchoACK{
-				Msg:   msg.Msg,
-				Value: msg.Value,
-			})
-
-		case *cellnet.SessionClosed: // 会话连接断开
-			fmt.Println("session closed: ", ev.Session().ID())
-		}
-
-	})
-
-	// 启动Peer，服务器开始侦听
-	peerIns.Start()
-
-	// 开启事件队列，开始处理事件，此函数不阻塞
-	queue.StartLoop()
-}
-func main_cellnet() {
-	server_cellnet()
-	for true {
-		time.Sleep(time.Microsecond * 30)
-	}
-}
-
-func init() {
-	cc := codec.MustGetCodec("binary")
-	tt := reflect.TypeOf((*TestEchoACK)(nil)).Elem()
-	ii := int(util.StringHash("TestEchoACK"))
-	cellnet.RegisterMessageMeta(&cellnet.MessageMeta{Codec: cc, Type: tt, ID: ii})
+	//test__123.Test__cellnet()
 }
 
 func actdebug() {
@@ -933,6 +983,5 @@ func test_protobuf() {
 func main() {
 	main_test()
 	//actdebug()
-	//main_cellnet()
 	//ttttttt()
 }

@@ -30,9 +30,19 @@ type cfg_log struct {
 type GameConfig struct {
 	Db_collect     cfg_db
 	Log            cfg_log
+	Grpc_port      int64
 	Svr_port       string
 	Version        string
 	Configurations []carr
+
+	RegCenterServerUrl         string
+	RegCenterServerPort        int64
+	RegConfigCenterNamespaceId string
+	RegConfigCenterGroupId     string
+	NacosLocalHostAddress      string
+	HttpPort                   int64
+	Grpcflag                   bool
+	Cqaflag                    bool
 }
 
 type GameConfigManager struct {

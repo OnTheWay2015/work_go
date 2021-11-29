@@ -25,7 +25,17 @@
 	    "compress" :false,
 	    "log_resbody" :true
     },
-    
+   
+"RegCenterServerUrl":"10.2.2.99",         
+"RegCenterServerPort":8848,
+"RegConfigCenterNamespaceId":"",
+"RegConfigCenterGroupId":"cloud",
+"NacosLocalHostAddress":"127.0.0.1",
+
+    "grpcflag":false,
+    "cqaflag":false,
+
+   "grpc_port" : 8086,
    "svr_port" : ":8085",
     "version": "0.0.1",
     "configurations": 

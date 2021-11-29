@@ -3,11 +3,20 @@ package game
 import (
 	"encoding/json"
 	"fmt"
+	"net"
 	"os"
+	"proto/heathcheck"
+	"proto/vedios_info"
+	"sports_info/controllers"
 	"sports_info/db"
 	"time"
 
+	"github.com/astaxie/beego/logs"
 	"github.com/gin-gonic/gin"
+	"google.golang.org/grpc"
+
+	"tsEngine/tsGrpc"
+	"tsEngine/tsNacos"
 
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap"
@@ -93,7 +102,54 @@ func initGameRouter() {
 	ResRegs(_router)
 }
 func initgrpc() {
-	//todo   Nacos  grpc_relpay
+
+	regCenterServerUrl := G_config.Data.RegCenterServerUrl
+	regCenterServerPort := G_config.Data.RegCenterServerPort
+	regConfigCenterNamespaceId := G_config.Data.RegConfigCenterNamespaceId
+	regConfigCenterGroupId := G_config.Data.RegConfigCenterGroupId
+
+	nacosLocalHostAddress := G_config.Data.NacosLocalHostAddress
+	nacoslocalHostPort := G_config.Data.Grpc_port
+
+	// 注册到consul
+	reqServer := tsNacos.NacosRegNameServerReq{
+		ServerUrl:   regCenterServerUrl,
+		ServerPort:  regCenterServerPort,
+		ServiceName: tsGrpc.GameMicroGrpcVediosInfo,
+		NamespaceId: regConfigCenterNamespaceId,
+		GroupName:   regConfigCenterGroupId,
+		Ip:          nacosLocalHostAddress,
+		Port:        nacoslocalHostPort,
+		RotateTime:  "24h",
+		LogLevel:    "info",
+	}
+	err := tsNacos.RegisterNameService(reqServer)
+	if err != nil {
+		logs.Error("注册成功consul失败: ", err)
+		panic(err)
+	}
+
+	// 启动RPC服务
+	port := G_config.Data.Grpc_port
+	//lis, err := net.Listen("tcp", fmt.Sprintf(":%d", port))
+	lis, err := net.Listen("tcp", fmt.Sprintf(":%d", port))
+	if err != nil {
+		logs.Error("启动RPC服务失败: ", err)
+		panic(err)
+	}
+
+	logs.Info("ConsulGrpcRegServer 启动RPC服务成功")
+
+	srv := grpc.NewServer()
+	heathcheck.RegisterHealthServer(srv, &controllers.HeathServerController{}) // 注册health_check服务
+	vedios_info.RegisterVediosInfoServiceServer(srv, &controllers.GrpcVediosInfoServerController{})
+	if err := srv.Serve(lis); err != nil {
+		logs.Error("RPC服务绑定业务失败: ", err)
+		panic(err)
+	}
+
+	logs.Info("ConsulGrpcRegServer RPC服务绑定业务成功")
+
 }
 
 func initGame() {
@@ -104,7 +160,9 @@ func initGame() {
 	G_vedios = &GameVediosInfoManager{}
 	G_vedios.init()
 
-	initgrpc()
+	if G_config.Data.Grpcflag {
+		go initgrpc()
+	}
 	initGameRouter()
 
 	a := map[string]interface{}{}
